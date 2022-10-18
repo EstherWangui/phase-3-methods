@@ -39,7 +39,7 @@ describe '#add' do
     expect(add(2, 5)).to be(7)
   end
 
-end
+ende
 
 describe '#halve' do
   
@@ -48,7 +48,7 @@ describe '#halve' do
   end
 
   it 'returns nil if not given a integer' do
-    expect(halve("six")).to be(nil)
-  end
+    expect(halve("six")).to b
+  ende(nil)
 
 end
