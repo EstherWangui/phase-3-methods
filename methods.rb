@@ -3,7 +3,7 @@ def greet_programmer()
     puts "Hello, programmer!"
 end
 
-def greet(name="Ronald")
+def greet(name="Esther")
    puts "Hello, #{name}!"
 end 
 
